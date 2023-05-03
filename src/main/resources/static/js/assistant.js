@@ -254,7 +254,7 @@ assistant.addEventListener("mouseup", () => {
 					window.location = '/search/products?name=Yuca+amarilla';
 					break;
 					case 'Huevo Artizan':
-					window.location = '/search/products?name=Huevo+Artizan';
+					window.location = '/search/products?name=Huevo+Artisan';
 					break;
 				}
 			}
