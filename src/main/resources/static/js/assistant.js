@@ -39,7 +39,7 @@ if (count <= 0){
 EasySpeech.detect();
 await EasySpeech.init();
 console.log(EasySpeech.voices());
-const voice = EasySpeech.voices()[233];
+const voice = EasySpeech.voices()[240];
 var text = null;
 /*const synth = window.speechSynthesis;
 const tts = new SpeechSynthesisUtterance();
