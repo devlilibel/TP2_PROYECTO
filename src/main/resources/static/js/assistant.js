@@ -225,7 +225,7 @@ assistant.addEventListener("mouseup", () => {
 					case 'Ofertas':
 					window.location = '/search/productsbycategory?name=Ofertas';
 					break;
-					case 'Complemento':
+					case 'Complementos':
 					window.location = '/search/productsbycategory?name=Complementos';
 					break;
 					case 'Preparados':
